@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Net.Mime;
 using System.Text;
@@ -15,7 +16,7 @@ namespace TextMessageListener
         private static ConUContext db = new ConUContext();
         static void Main(string[] args)
         {
-            using (var bus = RabbitHutch.CreateBus("amqps://exampleUser:exampleUserPw@beige-snake.rmq.cloudamqp.com/examplevhost"))
+            using (var bus = RabbitHutch.CreateBus(ConfigurationManager.AppSettings["RabbitMQConnection"]))
             {
                 bus.Subscribe<TextMessage>("CS-ContosoU", HandleTextMessage);
 
