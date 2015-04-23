@@ -15,9 +15,9 @@ namespace TextMessageListener
         private static ConUContext db = new ConUContext();
         static void Main(string[] args)
         {
-            using (var bus = RabbitHutch.CreateBus("host=localhost"))
+            using (var bus = RabbitHutch.CreateBus("amqps://exampleUser:exampleUserPw@beige-snake.rmq.cloudamqp.com/examplevhost"))
             {
-                bus.Subscribe<TextMessage>("test", HandleTextMessage);
+                bus.Subscribe<TextMessage>("CS-ContosoU", HandleTextMessage);
 
                 Console.WriteLine("Listening for messages. Hit <return> to quit.");
                 Console.ReadLine();
