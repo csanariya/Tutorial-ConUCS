@@ -1,8 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 
-
-namespace ContosoUniversityCS.Models
+namespace ContosuUniversity.DataAccess.Models
 {
     public class Course
     {

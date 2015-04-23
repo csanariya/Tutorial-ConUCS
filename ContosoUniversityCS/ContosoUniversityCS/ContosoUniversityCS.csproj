@@ -119,23 +119,9 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\StudentController.cs" />
-    <Compile Include="DAL\SchoolContext.cs" />
-    <Compile Include="DAL\SchoolInitializer.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201503301336300_InitialCreate.cs" />
-    <Compile Include="Migrations\201503301336300_InitialCreate.Designer.cs">
-      <DependentUpon>201503301336300_InitialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201503301716256_AddingStudentEmailColumn.cs" />
-    <Compile Include="Migrations\201503301716256_AddingStudentEmailColumn.Designer.cs">
-      <DependentUpon>201503301716256_AddingStudentEmailColumn.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\Configuration.cs" />
-    <Compile Include="Models\Course.cs" />
-    <Compile Include="Models\Enrollment.cs" />
-    <Compile Include="Models\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -194,12 +180,10 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201503301336300_InitialCreate.resx">
-      <DependentUpon>201503301336300_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201503301716256_AddingStudentEmailColumn.resx">
-      <DependentUpon>201503301716256_AddingStudentEmailColumn.cs</DependentUpon>
-    </EmbeddedResource>
+    <ProjectReference Include="..\ContosuUniversity.DataAccess\ContosuUniversity.DataAccess.csproj">
+      <Project>{bcf6557e-01a7-4168-8265-3aba834b5a71}</Project>
+      <Name>ContosuUniversity.DataAccess</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

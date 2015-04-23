@@ -1,5 +1,6 @@
 using System.Collections.Generic;
-using ContosoUniversityCS.Models;
+using ContosuUniversity.DataAccess.DAL;
+using ContosuUniversity.DataAccess.Models;
 
 namespace ContosoUniversityCS.Migrations
 {
@@ -8,14 +9,14 @@ namespace ContosoUniversityCS.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<ContosoUniversityCS.DAL.SchoolContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<SchoolContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(ContosoUniversityCS.DAL.SchoolContext context)
+        protected override void Seed(SchoolContext context)
         {
             //  This method will be called after migrating to the latest version.
 

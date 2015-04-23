@@ -5,6 +5,8 @@ using System.Linq;
 using System.Net.Mime;
 using System.Text;
 using System.Threading.Tasks;
+using ContosuUniversity.DataAccess.DAL;
+using ContosuUniversity.DataAccess.Models;
 using EasyNetQ;
 using Messages.DeveloperTesting;
 
@@ -13,7 +15,7 @@ namespace TextMessageListener
     class Program
     {
 
-        private static ConUContext db = new ConUContext();
+        private static SchoolContext db = new SchoolContext();
         static void Main(string[] args)
         {
             using (var bus = RabbitHutch.CreateBus(ConfigurationManager.AppSettings["RabbitMQConnection"]))

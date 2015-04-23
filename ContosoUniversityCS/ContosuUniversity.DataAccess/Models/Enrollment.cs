@@ -1,5 +1,5 @@
 ﻿
-namespace ContosoUniversityCS.Models
+namespace ContosuUniversity.DataAccess.Models
 {
     public enum Grade
     {
