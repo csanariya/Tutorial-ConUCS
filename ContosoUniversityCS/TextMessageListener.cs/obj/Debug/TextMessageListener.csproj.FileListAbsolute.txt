@@ -1,0 +1,6 @@
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\TextMessageListener.cs\bin\Debug\TextMessageListener.cs.exe.config
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\TextMessageListener.cs\bin\Debug\TextMessageListener.cs.exe
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\TextMessageListener.cs\bin\Debug\TextMessageListener.cs.pdb
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\TextMessageListener.cs\obj\Debug\TextMessageListener.csprojResolveAssemblyReference.cache
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\TextMessageListener.cs\obj\Debug\TextMessageListener.cs.exe
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\TextMessageListener.cs\obj\Debug\TextMessageListener.cs.pdb
