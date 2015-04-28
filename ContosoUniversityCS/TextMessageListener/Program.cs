@@ -22,7 +22,7 @@ namespace TextMessageListener
             {
                 bus.Subscribe<TextMessage>("CS-ContosoU", HandleTextMessage);
 
-                Console.WriteLine("Listening for messages. Hit <return> to quit.");
+                Console.WriteLine("Listening for messages. Hit <return> to quit!!");
                 Console.ReadLine();
             }
         }

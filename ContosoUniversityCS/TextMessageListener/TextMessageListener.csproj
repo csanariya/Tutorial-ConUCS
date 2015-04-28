@@ -43,7 +43,8 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
-    <Reference Include="NgpvanQueueMessageTypes">
+    <Reference Include="NgpvanQueueMessageTypes, Version=0.0.0.18, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\NgpvanQueueMessageTypes.0.0.0.18\lib\net40\NgpvanQueueMessageTypes.dll</HintPath>
     </Reference>
     <Reference Include="RabbitMQ.Client">

@@ -87,8 +87,7 @@ D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosoUnive
 D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosoUniversityCS\bin\Antlr3.Runtime.pdb
 D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosoUniversityCS\bin\Newtonsoft.Json.xml
 D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosoUniversityCS\obj\Debug\ContosoUniversityCS.csprojResolveAssemblyReference.cache
-D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosoUniversityCS\obj\Debug\ContosoUniversityCS.Migrations.InitialCreate.resources
-D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosoUniversityCS\obj\Debug\ContosoUniversityCS.Migrations.AddingStudentEmailColumn.resources
-D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosoUniversityCS\obj\Debug\ContosoUniversityCS.csproj.GenerateResource.Cache
 D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosoUniversityCS\obj\Debug\ContosoUniversityCS.dll
 D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosoUniversityCS\obj\Debug\ContosoUniversityCS.pdb
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosoUniversityCS\bin\ContosuUniversity.DataAccess.dll
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosoUniversityCS\bin\ContosuUniversity.DataAccess.pdb

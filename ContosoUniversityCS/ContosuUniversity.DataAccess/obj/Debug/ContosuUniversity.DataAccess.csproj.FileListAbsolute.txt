@@ -1,0 +1,12 @@
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosuUniversity.DataAccess\obj\Debug\ContosoUniversityCS.Migrations.InitialCreate.resources
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosuUniversity.DataAccess\obj\Debug\ContosoUniversityCS.Migrations.AddingStudentEmailColumn.resources
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosuUniversity.DataAccess\obj\Debug\ContosuUniversity.DataAccess.csproj.GenerateResource.Cache
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosuUniversity.DataAccess\bin\Debug\ContosuUniversity.DataAccess.dll.config
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosuUniversity.DataAccess\bin\Debug\ContosuUniversity.DataAccess.dll
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosuUniversity.DataAccess\bin\Debug\ContosuUniversity.DataAccess.pdb
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosuUniversity.DataAccess\bin\Debug\EntityFramework.dll
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosuUniversity.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosuUniversity.DataAccess\bin\Debug\EntityFramework.xml
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosuUniversity.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosuUniversity.DataAccess\obj\Debug\ContosuUniversity.DataAccess.dll
+D:\Development\csanariya\github\Tutorial-ConUCS\ContosoUniversityCS\ContosuUniversity.DataAccess\obj\Debug\ContosuUniversity.DataAccess.pdb

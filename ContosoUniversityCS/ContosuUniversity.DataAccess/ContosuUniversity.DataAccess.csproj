@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAL\SchoolContext.cs" />
-    <Compile Include="DAL\SchoolInitializer.cs" />
     <Compile Include="Migrations\201503301336300_InitialCreate.cs" />
     <Compile Include="Migrations\201503301336300_InitialCreate.Designer.cs">
       <DependentUpon>201503301336300_InitialCreate.cs</DependentUpon>
